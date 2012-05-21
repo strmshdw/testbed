@@ -1,0 +1,9 @@
+C:\git\testbed\testbed.Tests\bin\Debug\testbed.Tests.dll.config
+C:\git\testbed\testbed.Tests\bin\Debug\testbed.Tests.dll
+C:\git\testbed\testbed.Tests\bin\Debug\testbed.Tests.pdb
+C:\git\testbed\testbed.Tests\bin\Debug\testbed.dll
+C:\git\testbed\testbed.Tests\bin\Debug\System.Web.Optimization.dll
+C:\git\testbed\testbed.Tests\bin\Debug\testbed.pdb
+C:\git\testbed\testbed.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\git\testbed\testbed.Tests\obj\Debug\testbed.Tests.dll
+C:\git\testbed\testbed.Tests\obj\Debug\testbed.Tests.pdb
