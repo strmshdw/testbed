@@ -7,3 +7,5 @@ C:\git\testbed\testbed.Tests\bin\Debug\testbed.pdb
 C:\git\testbed\testbed.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\git\testbed\testbed.Tests\obj\Debug\testbed.Tests.dll
 C:\git\testbed\testbed.Tests\obj\Debug\testbed.Tests.pdb
+C:\git\testbed\testbed.Tests\bin\Debug\EntityFramework.dll
+C:\git\testbed\testbed.Tests\bin\Debug\EntityFramework.xml
